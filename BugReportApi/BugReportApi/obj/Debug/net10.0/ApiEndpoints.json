@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "BugReportApi.Controllers.ReportController",
+    "Method": "SendReport",
+    "RelativePath": "api/Report",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "BugReportApi.Models.BugReportDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
