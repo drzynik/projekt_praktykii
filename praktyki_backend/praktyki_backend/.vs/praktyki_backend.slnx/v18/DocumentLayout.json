@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|c:\\users\\drzyn\\desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|c:\\users\\drzyn\\desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\controllers\\requestendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|solutionrelative:controllers\\requestendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|c:\\users\\drzyn\\desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\controllers\\endpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|solutionrelative:controllers\\endpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|c:\\users\\drzyn\\desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\migrations\\dbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|solutionrelative:migrations\\dbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|c:\\users\\drzyn\\desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\migrations\\20251218201427_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|solutionrelative:migrations\\20251218201427_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|c:\\users\\drzyn\\desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|c:\\users\\drzyn\\desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\models\\softwares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|solutionrelative:models\\softwares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|c:\\users\\drzyn\\desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\models\\processes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|solutionrelative:models\\processes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|c:\\users\\drzyn\\desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\models\\hardwares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|solutionrelative:models\\hardwares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|c:\\users\\drzyn\\desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\models\\gamemasterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|solutionrelative:models\\gamemasterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|c:\\users\\drzyn\\desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\models\\gameevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|solutionrelative:models\\gameevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|c:\\users\\drzyn\\desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\models\\feedbacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|solutionrelative:models\\feedbacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|c:\\users\\drzyn\\desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\models\\decks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|solutionrelative:models\\decks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|c:\\users\\drzyn\\desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\models\\decisions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|solutionrelative:models\\decisions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|c:\\users\\drzyn\\desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|solutionrelative:models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|c:\\users\\drzyn\\desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\models\\cardweights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|solutionrelative:models\\cardweights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|c:\\users\\drzyn\\desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\models\\cards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|solutionrelative:models\\cards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|c:\\users\\drzyn\\desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\models\\cardenablers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|solutionrelative:models\\cardenablers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|c:\\users\\drzyn\\desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5426C79F-3FDA-7523-4E81-9E6ED1B7143D}|praktyki_backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:32:32.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbcontextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Migrations\\dbcontextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\dbcontextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Migrations\\dbcontextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\dbcontextModelSnapshot.cs",
+              "ViewState": "AgIAAO0BAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:32:17.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20251218201427_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Migrations\\20251218201427_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251218201427_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Migrations\\20251218201427_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20251218201427_InitialCreate.cs",
+              "ViewState": "AgIAAIwBAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:32:06.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "users.cs",
+              "DocumentMoniker": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Models\\users.cs",
+              "RelativeDocumentMoniker": "Models\\users.cs",
+              "ToolTip": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Models\\users.cs",
+              "RelativeToolTip": "Models\\users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:32:02.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "softwares.cs",
+              "DocumentMoniker": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Models\\softwares.cs",
+              "RelativeDocumentMoniker": "Models\\softwares.cs",
+              "ToolTip": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Models\\softwares.cs",
+              "RelativeToolTip": "Models\\softwares.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:32:00.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "endpoints.cs",
+              "DocumentMoniker": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Controllers\\endpoints.cs",
+              "RelativeDocumentMoniker": "Controllers\\endpoints.cs",
+              "ToolTip": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Controllers\\endpoints.cs",
+              "RelativeToolTip": "Controllers\\endpoints.cs",
+              "ViewState": "AgIAAL8BAAAAAAAAAAAowAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T09:14:54.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "requestEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Controllers\\requestEndpoint.cs",
+              "RelativeDocumentMoniker": "Controllers\\requestEndpoint.cs",
+              "ToolTip": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Controllers\\requestEndpoint.cs",
+              "RelativeToolTip": "Controllers\\requestEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T15:40:17.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "processes.cs",
+              "DocumentMoniker": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Models\\processes.cs",
+              "RelativeDocumentMoniker": "Models\\processes.cs",
+              "ToolTip": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Models\\processes.cs",
+              "RelativeToolTip": "Models\\processes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:31:59.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "hardwares.cs",
+              "DocumentMoniker": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Models\\hardwares.cs",
+              "RelativeDocumentMoniker": "Models\\hardwares.cs",
+              "ToolTip": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Models\\hardwares.cs",
+              "RelativeToolTip": "Models\\hardwares.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:31:57.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GamemasterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Models\\GamemasterRequest.cs",
+              "RelativeDocumentMoniker": "Models\\GamemasterRequest.cs",
+              "ToolTip": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Models\\GamemasterRequest.cs",
+              "RelativeToolTip": "Models\\GamemasterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:31:55.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "gameevents.cs",
+              "DocumentMoniker": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Models\\gameevents.cs",
+              "RelativeDocumentMoniker": "Models\\gameevents.cs",
+              "ToolTip": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Models\\gameevents.cs",
+              "RelativeToolTip": "Models\\gameevents.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:31:53.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "feedbacks.cs",
+              "DocumentMoniker": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Models\\feedbacks.cs",
+              "RelativeDocumentMoniker": "Models\\feedbacks.cs",
+              "ToolTip": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Models\\feedbacks.cs",
+              "RelativeToolTip": "Models\\feedbacks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:31:52.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "decks.cs",
+              "DocumentMoniker": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Models\\decks.cs",
+              "RelativeDocumentMoniker": "Models\\decks.cs",
+              "ToolTip": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Models\\decks.cs",
+              "RelativeToolTip": "Models\\decks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:31:51.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "decisions.cs",
+              "DocumentMoniker": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Models\\decisions.cs",
+              "RelativeDocumentMoniker": "Models\\decisions.cs",
+              "ToolTip": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Models\\decisions.cs",
+              "RelativeToolTip": "Models\\decisions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:31:49.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Models\\dbcontext.cs",
+              "RelativeDocumentMoniker": "Models\\dbcontext.cs",
+              "ToolTip": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Models\\dbcontext.cs",
+              "RelativeToolTip": "Models\\dbcontext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:31:47.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "cardweights.cs",
+              "DocumentMoniker": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Models\\cardweights.cs",
+              "RelativeDocumentMoniker": "Models\\cardweights.cs",
+              "ToolTip": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Models\\cardweights.cs",
+              "RelativeToolTip": "Models\\cardweights.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:31:46.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "cards.cs",
+              "DocumentMoniker": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Models\\cards.cs",
+              "RelativeDocumentMoniker": "Models\\cards.cs",
+              "ToolTip": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Models\\cards.cs",
+              "RelativeToolTip": "Models\\cards.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:31:44.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "cardenablers.cs",
+              "DocumentMoniker": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Models\\cardenablers.cs",
+              "RelativeDocumentMoniker": "Models\\cardenablers.cs",
+              "ToolTip": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Models\\cardenablers.cs",
+              "RelativeToolTip": "Models\\cardenablers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:31:42.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\drzyn\\Desktop\\programowanie\\praktyki_projekt\\praktyki_backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T22:42:09.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
